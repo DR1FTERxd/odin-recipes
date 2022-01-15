@@ -1,0 +1,29 @@
+a, li, p, h1, h2, h3, h4 {
+    font: 1em sans-serif;;
+}
+h1, h2 {
+    font-size: xx-large;
+}
+h1 {
+    margin: 1px;
+}
+h3 {
+    font-size: x-large;
+    margin-bottom: 1px;
+}
+ul {
+    padding: 15px;
+}
+ol {
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(153, 182, 199);
+}
+ol {
+    padding-left: 20px;
+}
+#title { 
+    text-align: center;
+}
